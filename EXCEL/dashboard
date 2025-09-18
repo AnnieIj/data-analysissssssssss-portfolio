@@ -1,0 +1,20 @@
+CustomerID	FirstName	LastName	Email	Phone	City	Country
+1	John	Doe	john.doe@email.com
+	555-1234	Lagos	Nigeria
+2	Mary	Smith	mary.smith@email.com
+	555-5678	Abuja	Nigeria
+3	Ahmed	Khan	ahmed.khan@email.com
+	555-8765	London	UK
+4	Grace	Lee	grace.lee@email.com
+	555-3456	Toronto	Canada
+5	Carlos	Santos	carlos.santos@email.com
+	555-6543	Madrid	Spain
+Sheet 2: Products
+ProductID	ProductName	Category	Price	Stock
+1	Laptop	Electronics	450000	50
+2	Smartphone	Electronics	250000	100
+3	Desk Chair	Furniture	75000	30
+4	Notebook	Stationery	1500	500
+5	Headphones	Electronics	35000	80
+
+8	5	2	1	250000
